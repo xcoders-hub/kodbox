@@ -1,4 +1,5 @@
 {
+    "name": "kodcloud",
     "require": {
         "ext-bcmath": "*",
         "ext-mcrypt": "*",
